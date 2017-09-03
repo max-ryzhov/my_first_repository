@@ -2,6 +2,13 @@
 <HTML>
 <HEAD>
 <TITLE>Hello World in HTML</TITLE>
+ <style>
+   h1 {
+    background: #D9FFAD; /* Цвет фона под заголовком */
+    color: green; /* Цвет текста */
+    padding: 2px; /* Поля вокруг текста */
+   }
+  </style>
 </HEAD>
 <BODY>
 <CENTER><H1 color="green">Hello World!</H1></CENTER>
